@@ -54,7 +54,7 @@ where $m= \lfloor \frac{M-1}{x} \rfloor$, then we have:
 
 $$ x \cdot (1+2+3+ \cdots+m) = x\cdot \sum_{i=1}^{m} {i} = x \left(\frac{m(m+1)}{2}\right)$$
 
-But we need to add all the numbers that are multiples of two integers x,y less than M, we cannot add directly $x \cdot \sum {i}$ and $y \cdot \sum {j}$ because there can be numbers that are both multiples of $x$ and $y$, that is, the multiples of $z=gcd(x,y)$ are being added twice. So it is necessary to subtract the multiples of z less than M. Let S be the sum of the multiples of $x$ and $y$ that are less than M, then:
+But we need to add all the numbers that are multiples of two integers x,y less than M, we cannot add directly $x \cdot \sum {i}$ and $y \cdot \sum {j}$ because there can be numbers that are both multiples of $x$ and $y$, that is, the multiples of $z=lcm(x,y)$ are being added twice. So it is necessary to subtract the multiples of z less than M. Let S be the sum of the multiples of $x$ and $y$ that are less than M, then:
 
 $$ S = x \cdot \sum_{i=1}^{m}{i}+y \cdot \sum_{j=1}^{n}{j}-z\sum_{k=i}^{r}{k}$$
 
