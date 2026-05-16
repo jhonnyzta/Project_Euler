@@ -159,13 +159,13 @@ On the other hand, there is also the report obtained for the Java and Python lan
 In the following graph, the x-axis represents the number of the test conducted, and the y-axis represents the cumulative time. This means that for the third test, it displays the total time taken to perform tests 1, 2, and 3.
 
 <p align="center">
-<img src="https://github.com/jhonnyzta/ProjectEuler/assets/70600594/8a5a7419-cf16-49e0-a9e8-406c12492530" alt="Graphic 1" width="400" height="300">
+<img src="https://github.com/jhonnyzta/Project_Euler/blob/main/Id1/images/graph1.png" alt="Graphic 1" width="400" height="300">
 </p>
 
 To observe in greater detail, we have removed the results of Python and Java from the list, resulting in the following graph.
 
 
 <p align="center">
-<img src="https://github.com/jhonnyzta/ProjectEuler/assets/70600594/ceff4234-ba31-4be5-b65d-c19132037d90" alt="Graphic 2" width="400" height="300">
+<img src="https://github.com/jhonnyzta/Project_Euler/blob/main/Id1/images/graph2.png" alt="Graphic 2" width="400" height="300">
 </p>
 
